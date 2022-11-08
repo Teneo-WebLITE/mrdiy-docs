@@ -1,0 +1,25 @@
+{
+  "name": "mrdiy-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teneo-WebLITE/mrdiy-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teneo-WebLITE/mrdiy-docs/issues"
+  },
+  "homepage": "https://github.com/Teneo-WebLITE/mrdiy-docs#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.27",
+    "vue": "^3.2.41"
+  }
+}
