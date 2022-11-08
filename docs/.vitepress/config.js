@@ -1,5 +1,5 @@
 export default {
-  title: "Mr.DIY Documentation",
-  description: "Documentation for Mr.DIY project.",
-  base: "/mrdiy-docs/",
+  title: "Test CICD Documentation",
+  description: "Documentation for Test CICD project.",
+  base: "/test-cicd/",
 };

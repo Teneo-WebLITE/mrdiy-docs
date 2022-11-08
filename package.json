@@ -1,5 +1,5 @@
 {
-  "name": "mrdiy-docs",
+  "name": "test-cicd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Teneo-WebLITE/mrdiy-docs.git"
+    "url": "git+https://github.com/Teneo-WebLITE/test-cicd.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Teneo-WebLITE/mrdiy-docs/issues"
+    "url": "https://github.com/Teneo-WebLITE/test-cicd/issues"
   },
-  "homepage": "https://github.com/Teneo-WebLITE/mrdiy-docs#readme",
+  "homepage": "https://github.com/Teneo-WebLITE/test-cicd#readme",
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.27",
     "vue": "^3.2.41"
