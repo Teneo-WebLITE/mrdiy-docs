@@ -1,3 +1,3 @@
 # Documentation
 
-Is it working?
+Yes, it's working.
